@@ -5,7 +5,7 @@ The second argument, the search term (-s), is the item, brand name, or retailer 
 
 The tool returns the most relevant offers and the cosine similarity of the offer to the search term.  
 
-Please see the WriteUp.md file for a discussion of my problem approach, assumptions, and tradeoffs as well as information on the other files in this repository.  
+Please see the WriteUp.md file for a discussion of my problem approach, assumptions, and future work.  
 
 ## Installation
 The required packages are listed in the fetch.yml file. If using conda you can create an environment using the command: 'conda env create -f fetch.yml' and then 'conda activate fetch_env'  
